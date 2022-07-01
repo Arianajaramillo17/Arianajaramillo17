@@ -1,7 +1,5 @@
 <h2> Hi, I'm Angela Ariana  ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-[![Linkedin: angela](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](www.linkedin.com/in/angela-ariana-jaramillo)
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -12,3 +10,6 @@ const angela = {
     coolFact: " Coding will soon be as important as reading"
 };
 ```
+- 📫 How to reach me **hellolindalopez@gmail.com** 
+<a href="www.linkedin.com/in/angela-ariana-jaramillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelajaramillo" height="30" width="40" /></a>
+
