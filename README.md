@@ -7,9 +7,9 @@
 
 ```javascript
 const angela = {
-    age: "21",
+    age: "23",
     pronouns: "She" | "Her",
-    code: ["Javascript", "REACT", "HTML", "CSS"],
+    code: ["Javascript", "REACT", "HTML", "CSS","Typescript", "HTML", "CSS"],
     coolFact: " Coding will soon be as important as reading"
 };
 ```
