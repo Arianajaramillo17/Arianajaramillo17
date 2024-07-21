@@ -9,7 +9,7 @@
 const angela = {
     age: "23",
     pronouns: "She" | "Her",
-    code: ["Javascript", "REACT", "HTML", "CSS","Typescript", "", ".Net"],
+    code: ["Javascript", "REACT", "HTML", "CSS","Typescript", "C#", ".Net"],
     coolFact: " Coding will soon be as important as reading"
 };
 ```
